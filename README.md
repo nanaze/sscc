@@ -1,0 +1,2 @@
+# sscc
+sound synthesis prototype
