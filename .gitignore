@@ -30,3 +30,6 @@
 # emacs files
 *~
 \#*\#
+
+# bazel dirs
+bazel-*
